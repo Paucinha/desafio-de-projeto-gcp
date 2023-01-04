@@ -2,7 +2,8 @@
 
 ## Descrição
 Construa um diagrama de uma estrutura organizacional e do seu grupo de acessos para melhorar o entendimento de criação de projetos em cloud.
-[**Objetivo do Desafio:**] Desenhe uma organização de grupo de acessos e de uma organização utilizando o Draw.io e suba no seu github.
+
+Objetivo do Desafio: Desenhe uma organização de grupo de acessos e de uma organização utilizando o Draw.io e suba no seu github.
 
 Organização de Grupo de Acessos e de uma Organização!!! [**Draw.io**](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1s26tWEAw9iikZkTfebpFJRZOS_5aKR1Y)
 
