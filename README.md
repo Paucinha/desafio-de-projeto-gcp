@@ -1,8 +1,8 @@
 # Desafio de Projeto
 
-###Desenhando sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform
-## Definição de Orçamento de Billing na Google Cloud Platform
-## Exportação do Billing na Google Cloud Platform
+### Desenhando sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform
+### Definição de Orçamento de Billing na Google Cloud Platform
+### Exportação do Billing na Google Cloud Platform
 
 ##
 
