@@ -31,6 +31,13 @@ Objetivo do desafio: Faça o processo de passo a passo de exportação de Billin
 
 # Personalizando Dashboard e Trocando as Preferências de Idioma
 
+[**Veja Aqui**](https://console.cloud.google.com/welcome?project=elated-drive-372122&authuser=2&_ga=2.139640240.2071911632.1672871267-1861883015.1672871267)
+
+
+##
+
+# Utilizando o Cloud Shell
+
 ##
 
 Projeto desenvolvido durante o Bootcamp Cloud DevOps Experience - Banco Carrefour, no Módulo Google Cloud Foundations, fornecido pela [**DIO**](https://www.dio.me/)
