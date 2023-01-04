@@ -33,10 +33,28 @@ Objetivo do desafio: Faça o processo de passo a passo de exportação de Billin
 
 [**Veja Aqui**](https://console.cloud.google.com/welcome?project=elated-drive-372122&authuser=2&_ga=2.139640240.2071911632.1672871267-1861883015.1672871267)
 
-
 ##
 
 # Utilizando o Cloud Shell
+
+Quarkus Application on Google App Engine Standard with Java 11. This sample shows how to deploy a [Quarkus](https://quarkus.io/)
+application to Google App Engine standard.
+
+## Setup
+
+See [Prerequisites](../README.md#Prerequisites).
+
+## Deploying
+
+```bash
+gcloud app deploy
+```
+
+To view your app, use command:
+```
+gcloud app browse
+```
+Or navigate to `https://<your-project-id>.appspot.com`.
 
 ##
 
