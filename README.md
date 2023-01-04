@@ -1,3 +1,6 @@
+https://github.com/Paucinha/desafio-de-projeto-gcp/blob/master/LICENSE
+
+
 # Desenhando sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform
 
 ## Descrição
