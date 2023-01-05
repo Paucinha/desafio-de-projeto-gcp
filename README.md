@@ -70,6 +70,6 @@ O seu objetivo neste Desafio de Projeto será colocar em prática todos os conce
 
 ##
 
-Projeto desenvolvido durante o Bootcamp Cloud DevOps Experience - Banco Carrefour, no Módulo Google Cloud Foundations, fornecido pela [**DIO**](https://www.dio.me/)
+Projeto desenvolvido durante o Bootcamp Cloud DevOps Experience - Banco Carrefour, nos Módulos Google Cloud Foundations e DevOps na Nuvem com Google Cloud Plataform (GCP), fornecido pela [**DIO**](https://www.dio.me/)
 
 By Paucinha!!!
