@@ -1,7 +1,8 @@
-https://github.com/Paucinha/desafio-de-projeto-gcp/blob/master/LICENSE
+# DESAFIO DE PROJETO
 
+[![GitHub](https://img.shields.io/github/license/Paucinha/desafio-de-projeto-gcp)](https://github.com/Paucinha/desafio-de-projeto-gcp/blob/master/LICENSE)
 
-# Desenhando sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform
+## Desenhando sua Organização de Pastas e Projetos e Grupos de Acessos na Google Cloud Platform
 
 ## Descrição
 Construa um diagrama de uma estrutura organizacional e do seu grupo de acessos para melhorar o entendimento de criação de projetos em cloud.
@@ -12,7 +13,7 @@ Organização de Grupo de Acessos e de uma Organização!!! [**Draw.io**](https:
 
 ##
 
-# Definição de Orçamento de Billing na Google Cloud Platform
+## Definição de Orçamento de Billing na Google Cloud Platform
 
 ## Descrição
 
@@ -22,7 +23,7 @@ Objetivo do desafio: Crie alertas e um controle de orçamentos no painél de fat
 
 ##
 
-# Exportação do Billing na Google Cloud Platform
+## Exportação do Billing na Google Cloud Platform
 
 ## Descrição
 
@@ -32,13 +33,13 @@ Objetivo do desafio: Faça o processo de passo a passo de exportação de Billin
 
 ##
 
-# Personalizando Dashboard e Trocando as Preferências de Idioma
+## Personalizando Dashboard e Trocando as Preferências de Idioma
 
 [**Veja Aqui**](https://console.cloud.google.com/welcome?project=elated-drive-372122&authuser=2&_ga=2.139640240.2071911632.1672871267-1861883015.1672871267)
 
 ##
 
-# Utilizando o Cloud Shell
+## Utilizando o Cloud Shell
 
 Quarkus Application on Google App Engine Standard with Java 11. This sample shows how to deploy a [Quarkus](https://quarkus.io/)
 application to Google App Engine standard.
