@@ -62,6 +62,14 @@ Or navigate to `https://<your-project-id>.appspot.com`.
 
 ##
 
+## Criando Pipeline de CI/CD com Cloud Build e Terraform
+
+## Descrição
+
+O seu objetivo neste Desafio de Projeto será colocar em prática todos os conceitos aprendidos até aqui em sua jornada e então explorar a criação de um pipeline de CI/CD com Google Cloud Build e Terraform para provisionamento de Infraestrutura como código. Criando Pipeline de CI/CD com Cloud Build e Terraform.
+
+##
+
 Projeto desenvolvido durante o Bootcamp Cloud DevOps Experience - Banco Carrefour, no Módulo Google Cloud Foundations, fornecido pela [**DIO**](https://www.dio.me/)
 
 By Paucinha!!!
